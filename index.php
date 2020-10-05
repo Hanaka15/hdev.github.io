@@ -4,6 +4,7 @@
   
   </head>
   <body>
+    <h1>test</h1>
     <script>
       console.log("Timezone: " + Intl.DateTimeFormat().resolvedOptions().timeZone);
       var clientTimezoneOffset = new Date();
