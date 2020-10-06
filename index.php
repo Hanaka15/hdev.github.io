@@ -2,7 +2,7 @@
 <html>
   <head>
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="vendor/css/bootstrap.css">
+    <link rel="stylesheet" href="https://bootswatch.com/4/lux/bootstrap.css">
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
