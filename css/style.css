@@ -1,5 +1,5 @@
 /* Stylesheet for Hakuni software. */
 
 body {
-  background: assets/bg.jpg;
+  background: image(assets/bg.jpg);
 }
