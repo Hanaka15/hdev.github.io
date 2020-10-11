@@ -1,5 +1,37 @@
 /* Stylesheet for Hakuni software. */
 
 body {
-  background-image: url("assets/bg.jpg");
+  background-image: url("/assets/img/background.png");
+  background-repeat: no-repeat;
+  min-height:100%;
+}
+
+.brand-img {
+  margin-left: 30px;
+  margin-top: 20px;
+  height: 120px;
+  width: auto;
+}
+
+.btn-login {
+  color:#fff;
+  background: #7289DA;
+  width:80%;
+  left: 50%;
+  position: fixed;
+  bottom:5px;
+  transform: translate(-50%, -50%);
+}
+
+.bg-panel {
+  background-color: #575757;
+}
+
+.center {
+  height:350px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 400px;
 }
