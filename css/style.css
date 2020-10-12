@@ -1,9 +1,11 @@
 /* Stylesheet for Hakuni software. */
 
 body {
-  background-image: url("/assets/img/bg.jpg");
-  background-repeat: no-repeat;
-  background-clip: inherit;
+  background: url("/assets/img/bg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .brand-img {
@@ -13,10 +15,14 @@ body {
   width: auto;
 }
 
+.card-header {
+  background: #4f4f4f;
+}
+
 .btn-login {
   color: #fff;
   background: #7289DA;
-  width: 80%;
+  width: 90%;
   left: 50%;
   position: fixed;
   bottom: 5px;
@@ -28,11 +34,10 @@ body {
 }
 
 .center {
-  min-height: 400px;
-  height: auto;
+  min-height: 500px;
   position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  max-width: 400px;
+  max-width: 50vh;
 }
