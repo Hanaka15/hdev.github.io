@@ -29,7 +29,7 @@
            </div>
 
            <div class="section">
-             <h3>Verification</h3>
+             <h3>TimeSheet 2.0</h3>
              <p>To track SOT-Officer hours better we have made a new website that integrates with Discord.</p>
            </div>
             <hr>
