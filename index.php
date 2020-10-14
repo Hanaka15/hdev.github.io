@@ -36,13 +36,13 @@
               <div class="section">
                     <ul>
                         <li>
-                            <i class="material-icons">extension</i> <span>Stable and reliable system</span>
+                            <i class="material-icons">verified_user</i> <span>Stable and reliable system</span>
                         </li>
                         <li>
                             <i class="material-icons">access_time</i> <span>Calculate time automaticly</span>
                         </li>
                         <li>
-                            <i class="material-icons">verified_user</i> <span>Discord integration for easy access</span>
+                            <i class="material-icons">extension</i> <span>Discord integration for easy access</span>
                         </li>
                     </ul>
                 </div>
