@@ -23,7 +23,7 @@
       <div class="container">
          <div class="card">
             <div class="section">
-               <img class="card-logo" src="assets/img/logo.webp">
+               <img class="card-logo" src="core/assets/img/logo.webp">
             </div>
             <div class="section">
                <h3>Referal System</h3>
