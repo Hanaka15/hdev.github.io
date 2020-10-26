@@ -3,7 +3,7 @@
    <head>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Requiem - Referal Login</title>
-      <link rel="icon" type="image/webp" href="core/assets/img/logo.webp">
+      <link rel="icon" type="image/png" href="core/assets/img/favicon.png">
       <meta name="title" content="Requiem Referal">
       <meta name="description" content="We provide a home for anyone and everyone looking for a relaxing place to play games and make new friends along the way.">
       <meta name="keywords" content="Requiem, Community, Gaming, Sea of Thieves, ARK, Minecraft">
