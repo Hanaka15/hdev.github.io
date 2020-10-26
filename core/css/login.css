@@ -2,7 +2,7 @@
 
 body {
 	line-height: 1.15;
-	background: url(core/assets/img/bg.webp) no-repeat center center fixed;
+	background: url(/core/assets/img/bg.webp) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
