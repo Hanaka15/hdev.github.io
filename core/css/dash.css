@@ -9,4 +9,5 @@ html {
     margin-right: 8rem;
     border: 0.25rem;
     border-color: var(--white);
+    background-color: brown;
 }
