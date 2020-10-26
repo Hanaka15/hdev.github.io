@@ -1,0 +1,118 @@
+/* Stylesheet By Hakuni Team */
+
+html {
+	line-height: 1.15;
+	background: url(/assets/img/bg.webp) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: var(--white);
+}
+
+
+/* Body style */
+
+.container {
+	position: absolute;
+	transform: translate(-50%, -50%);
+	top: 50%;
+	left: 50%;
+	width: 25rem;
+	border-radius: .5rem;
+	background-color: var(--grey-light);
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25);
+	height: auto;
+}
+
+.card {
+	margin: 2rem;
+}
+
+.card-logo {
+	position: relative;
+	width: 2.75rem;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+
+.section {
+	margin: 1.5rem 0;
+}
+
+.section ul {
+	margin: .5rem 0;
+	padding: 0;
+	list-style: none;
+}
+
+.section ul li {
+	margin: .7rem 0;
+	display: list-item;
+}
+
+.section p,
+.section h3 {
+	margin: .5rem 0;
+}
+
+.section ul li span {
+	vertical-align: super;
+	margin-left: .25rem;
+}
+
+.section .button {
+	color: var(--white);
+	width: 50px;
+	height: 50px;
+	position: relative;
+	left: 50%;
+	transform: translate(-50%, 0);
+}
+
+.section .button .button__bg {
+	color: #fff;
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	background-color: var(--yellow);
+	animation: pulse 2.4s ease infinite;
+}
+
+.section .button .button__inner {
+	color: var(--grey-dark);
+	font-size: 1.5rem;
+	font-weight: 600;
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	background-color: var(--yellow);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}
+
+.section .button .button__inner i {
+	font-weight: 700;
+}
+
+@keyframes pulse {
+	0% {
+		transform: scale(1, 1);
+		opacity: 1;
+	}
+	50% {
+		transform: scale(1, 1);
+		opacity: 1;
+	}
+	75% {
+		opacity: 0.3;
+	}
+	100% {
+		transform: scale(1.5);
+		opacity: 0;
+	}
+}

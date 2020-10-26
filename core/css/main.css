@@ -1,0 +1,60 @@
+/* Stylesheet By Hakuni Team */
+:root {
+    --grey-dark: #181818;
+    --grey-light: #262626;
+    --yellow: #e6c200;
+    --white: #fff;
+    --black: #000;
+}
+
+hr {
+	margin: 0;
+	height: 1px;
+	background-color: var(--yellow);
+	opacity: .3;
+	border: 0;
+}
+
+h1 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	font-style: italic;
+	text-transform: uppercase;
+	font-size: 3.625rem;
+}
+
+h1 .alt-head {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	font-style: italic;
+	text-transform: uppercase;
+	font-size: 3.625rem;
+	-webkit-text-stroke-width: .09rem;
+	-webkit-text-stroke-color: var(--yellow);
+	-webkit-text-fill-color: var(--black);
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+	font-style: bold;
+	text-transform: uppercase;
+	font-size: 1.8125rem;
+}
+
+h3 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	font-size: 1rem;
+}
+
+p {
+	font-family: 'Poppins', sans-serif;
+	font-size: 1rem;
+	font-weight: 300;
+}
+
+span {
+	font-family: 'Poppins', sans-serif;
+	font-size: 1rem;
+	font-weight: 400;
+}
