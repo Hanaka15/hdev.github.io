@@ -1,8 +1,8 @@
-<div>
-        <ul>
-            <li><a href="#">Premium</a></li>
-            <li><a href="#">Levels</a></li>
-            <li><a href="#">Server Stats</a></li>
-            <li><a href="index.php">Moderation</a></li>
-        </ul>
-</div>
+<nav>
+    <ul>
+        <li><a class="active" href="#home">Home</a></li>
+        <li><a href="#news">News</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li style="float:right"><a href="#about">About</a></li>
+    </ul>
+<nav>
