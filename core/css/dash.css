@@ -5,6 +5,8 @@ html {
 }
 
 .container {
+    height: 100%;
+    width: 100%;
     margin-left: 8rem;
     margin-right: 8rem;
     border: 0.25rem;
