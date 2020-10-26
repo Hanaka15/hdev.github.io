@@ -11,7 +11,7 @@
 
 <body>
 <div class="container">
-<div class="test6"></div>
+<div class="test7"></div>
 </div>
 </body>
 
