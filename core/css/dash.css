@@ -3,3 +3,10 @@
 html {
     background-color: var(--grey-light);
 }
+
+.container {
+    margin-left: 8rem;
+    margin-right: 8rem;
+    border: 0.25rem;
+    border-color: var(--white);
+}

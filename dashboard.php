@@ -7,8 +7,11 @@
   <link rel="stylesheet" href="core/css/dash.css">
 </head>
 
+<?php require 'core/templates/header.php';?>
+
 <body>
-<?php require 'core/templates/navbar.php';?>
+<div class="container">
+</div>
 </body>
 
 </html>
