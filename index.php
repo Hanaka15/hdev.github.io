@@ -3,7 +3,7 @@
    <head>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Requiem - Referal Login</title>
-      <link rel="icon" type="image/png" href="core/assets/img/favicon.png">
+      <link rel="icon" type="image/png" href="core/assets/img/flavicon.png">
       <meta name="title" content="Requiem Referal">
       <meta name="description" content="We provide a home for anyone and everyone looking for a relaxing place to play games and make new friends along the way.">
       <meta name="keywords" content="Requiem, Community, Gaming, Sea of Thieves, ARK, Minecraft">
@@ -11,7 +11,7 @@
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
       <meta name="language" content="English">
       <meta property="og:title" content="Requiem">
-      <meta property="og:image" content="core/assets/img/favicon.png">
+      <meta property="og:image" content="core/assets/img/flavicon.png">
       <meta property="og:description" content="We provide a home for anyone and everyone looking for a relaxing place to play games and make new friends along the way.">
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
