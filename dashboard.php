@@ -6,9 +6,14 @@
   <link rel="stylesheet" href="core/css/main.css">
   <link rel="stylesheet" href="core/css/dash.css">
 </head>
+<!-- Header -->
+<?php require 'core/templates/header.php';?>
 
 <body>
-<?php require 'core/templates/navbar.php';?>
+  <div class="container">
+    <div class="content"></div>
+    <div></div>
+  </div>
 </body>
 
 </html>
