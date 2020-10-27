@@ -9,11 +9,9 @@
 <!-- Header -->
 <?php require 'core/templates/header.php';?>
 
-<?php require 'core/templates/header.php';?>
-
 <body>
-<div class="container">
-<div class="test120"></div>
+<div class="container" id="">
+<div class="test121"></div>
 </div>
 </body>
 
