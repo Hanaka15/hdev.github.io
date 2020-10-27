@@ -9,11 +9,12 @@
 <!-- Header -->
 <?php require 'core/templates/header.php';?>
 
+<?php require 'core/templates/header.php';?>
+
 <body>
-  <div class="container">
-    <div class="content"></div>
-    <div></div>
-  </div>
+<div class="container">
+<div class="test120"></div>
+</div>
 </body>
 
 </html>

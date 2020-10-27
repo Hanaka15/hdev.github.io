@@ -5,8 +5,11 @@ html {
 }
 
 .container {
-    border-color: var(--white);
-    border: 0.25rem;
+    height: 100%;
+    width: 100%;
     margin-left: 8rem;
     margin-right: 8rem;
+    border: 0.25rem;
+    border-color: var(--white);
+    background-color: white;
 }
