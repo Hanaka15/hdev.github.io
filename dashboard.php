@@ -10,8 +10,9 @@
 <?php require 'core/templates/header.php';?>
 
 <body>
-  <div id="wrapper" id="">
-  <div class="test121"></div>
+  <div id="wrapper">
+  <div class="box-A1">
+  </div>
   </div>
 </body>
 
