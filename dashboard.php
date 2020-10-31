@@ -11,8 +11,7 @@
 
 <body>
   <div id="wrapper">
-  <div class="box-A1">
-  </div>
+  <div class="box-A1"></div>
   </div>
 </body>
 
