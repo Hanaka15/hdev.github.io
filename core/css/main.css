@@ -1,6 +1,6 @@
 /* Stylesheet By Hakuni Team */
 :root {
-    --grey-dark: #181818;
+    --grey-dark: #ff2121;
     --grey-light: #262626;
     --yellow: #e6c200;
     --white: #fff;
@@ -81,15 +81,15 @@ nav ul {
 	padding: 0;
 	overflow: hidden;
 	background-color: var(--grey-dark);
-  }
+}
   
 nav li {
 	float: left;
-  }
+}
   
 nav li:last-child {
 	border-right: none;
-  }
+}
   
 nav li a {
 	display: block;
@@ -97,12 +97,12 @@ nav li a {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
-  }
+}
   
 nav li a:hover:not(.active) {
 	background-color: var(--grey-light);
-  }
+}
   
 nav .active {
 	background-color: var(--grey-light);
-  }
+}
