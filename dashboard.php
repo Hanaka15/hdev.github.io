@@ -4,15 +4,15 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="core/css/main.css">
-  <link rel="stylesheet" href="core/css/dash.css">
+  <link rel="stylesheet" href="core/css/dashboard.css">
 </head>
-
+<!-- Header -->
 <?php require 'core/templates/header.php';?>
 
 <body>
-<div class="container">
-<div class="test120"></div>
-</div>
+  <div id="wrapper">
+  <div class="box-A1"></div>
+  </div>
 </body>
 
 </html>
